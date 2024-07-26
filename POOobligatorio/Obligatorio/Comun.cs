@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Obligatorio
 {
-    class Program
+    class Comun : Consulta
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }

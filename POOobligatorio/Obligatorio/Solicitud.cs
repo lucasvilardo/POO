@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Obligatorio
 {
-    class Program
+    class Solicitud
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }

@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Obligatorio
 {
-    class Program
+    class Especializada : Paciente
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
